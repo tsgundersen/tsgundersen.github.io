@@ -84,7 +84,7 @@ publication_category:
   workingpapers:
     title: 'Working papers'
   other:
-    title: 'Policy work, reports, etc.'
+    title: 'Policy work, reports, op-eds, media etc.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
