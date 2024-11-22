@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher and Adjunct Associate Professor of Economics"
   location         : "Oslo, Norway"
-  employer         : "Statistics Norway and BI Norwegian Business School"
+  employer1        : "Statistics Norway"
+  employer2        : "BI Norwegian Business School 
   uri              : # URL
   email            : "thomas.gundersen@ssb.no" 
 
