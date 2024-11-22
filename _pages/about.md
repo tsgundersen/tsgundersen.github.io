@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Homepage of Thomas S. Gundersen"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome
+
+
+
 
 I am a researcher at in the research department of [Statistics Norway](https://www.ssb.no) and an adjunct associate professor at [BI Norwegian Business School](https://www.bi.edu). I am affiliated with the [Centre for Applied Macroeconomics and Commodity Prices (CAMP)](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at BI.
 
