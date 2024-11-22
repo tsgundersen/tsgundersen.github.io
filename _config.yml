@@ -21,7 +21,7 @@ repository               : "tsgundersen/tsgundersen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BI_photo.jpg"
   name             : "Thomas S. Gundersen"
   pronouns         : # example: "she/her"  
   bio              : "Researcher and Adjunct Associate Professor of Economics"
