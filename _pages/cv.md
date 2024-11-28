@@ -34,24 +34,28 @@ Other positions
 
 Research
 ======
+<a href="/publications/">See the publication page</a>.
 
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Conferences and workshops
+======
+## 2023
+* International Association for Applied Econometrics Annual Conference, BI Norwegian Business School, Oslo, Norway.
+## 2022
+* Workshop on Energy and Climate: Macroeconomic Implications, BI Norwegian Business School, Oslo, Norway.
+## 2021
+* The 8th Annual Conference of the International Association for Applied Econometrics, Erasmus School of Economics, Rotterdam, the Netherlands.
+## 2020
+* The 28th Annual Symposium of the Society for Nonlinear Dynamics and Econometrics, Zagrep, Croatia.
+## 2019
+* Oslo Macro Group November seminar, Oslo, Norway
+## 2017
+* CAMA Applied Macroeconomics Workshop, Australian National University, Canberra.
+* 27th Annual Meeting of the Midwest Econometrics Group, Texas A&M University, College Station, Texas.
+* 4th Annual Conference of the International Association for Applied Econometrics, Sapporo, Japan.
 
-#Conferences and workshops
-#======
-
-#<ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-
-#Teaching
-#======
-
-#<ul>{% for post in site.teaching reversed %}
-#   {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+<a href="/teaching/">See the teaching page</a>.
 
 Academic grants and honours
 ======
