@@ -48,7 +48,7 @@ Conferences and workshops
 * The 8th Annual Conference of the International Association for Applied Econometrics, Erasmus School of Economics, Rotterdam, the Netherlands.
 
 ## 2020
-* The 28th Annual Symposium of the Society for Nonlinear Dynamics and Econometrics, Zagrep, Croatia.
+* The 28th Annual Symposium of the Society for Nonlinear Dynamics and Econometrics, Zagreb, Croatia.
 
 ## 2019
 * Oslo Macro Group November seminar, Oslo, Norway
