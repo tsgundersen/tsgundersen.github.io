@@ -62,6 +62,10 @@ Teaching
 ======
 <a href="/teaching/">See the teaching page</a>.
 
+### Supervision
+* <i>Effects of Norwegian Oil Supply Shocks on the Global Oil Market: Implications for Environmental Policies</i>. Andreas Becker Cappelen and Christoffer Thalberg Hamnes, BI Norwegian Business School, 2023.
+* Co-supervision of numerous master theses, BI Norwegian Business School, 2016-2020.
+
 Academic grants and honours
 ======
 * Fulbright scholarship, U.S.-Norway Fulbright Foundation, 2018-2019
