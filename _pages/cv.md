@@ -73,3 +73,4 @@ Services
 ======
 * External PhD evaluation committee member, Candace Barr, Free University of Bozen-Bolzano, 2023
 * Referee work: <i>Empirical Economics</i>
+* External grading work (exams/theses): Oslo Metropolitan University (OsloMet), Kristiania University of Applied Sciences (Høyskolen Kristiania), UiT The Arctic University of Norway.
