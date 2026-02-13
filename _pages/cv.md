@@ -71,6 +71,6 @@ Academic grants and honours
 
 Services
 ======
-* External PhD evaluation committee member, Candace Barr, Free University of Bozen-Bolzano, 2023
+* External PhD evaluation committee member, Candace Laurel Barr, Free University of Bozen-Bolzano, 2023
 * Referee work: <i>Empirical Economics</i>
-* External grading work (exams/theses): Oslo Metropolitan University (OsloMet), Kristiania University of Applied Sciences (Høyskolen Kristiania), UiT The Arctic University of Norway.
+* External grading work (exams/theses): Oslo Metropolitan University (OsloMet), Kristiania University of Applied Sciences (Høyskolen Kristiania), UiT The Arctic University of Norway, Norwegian School of Economics (NHH).
