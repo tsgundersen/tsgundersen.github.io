@@ -71,6 +71,7 @@ Academic grants and honours
 
 Services
 ======
+* Organizing Committee for <a href="https://sites.google.com/site/oslomacro/omc">Oslo Macro Conference 2026</a>
 * External PhD evaluation committee member, Candace Laurel Barr, Free University of Bozen-Bolzano, 2023
 * Referee work: <i>Empirical Economics</i>
 * External grading work (exams/theses): Oslo Metropolitan University (OsloMet), Kristiania University of Applied Sciences (Høyskolen Kristiania), UiT The Arctic University of Norway, Norwegian School of Economics (NHH).
