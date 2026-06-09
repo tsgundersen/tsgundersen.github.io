@@ -62,6 +62,7 @@ Teaching
 ======
 <a href="/teaching/">See the teaching page</a>.
 ### Supervision
+* <i>Time-Varying Transmission Mechanisms of Monetary Policy and Exchange Rate Shocks: Evidence from a Rolling-Window Bayesian Structural Vector Autoregression Model for Norway</i>. Henrik Hvidsten and Oscar F. H. Ryberg, University of Oslo, 2026.
 * <i>Effects of Norwegian Oil Supply Shocks on the Global Oil Market: Implications for Environmental Policies</i>. Andreas Becker Cappelen and Christoffer Thalberg Hamnes, BI Norwegian Business School, 2023.
 * Co-supervision of numerous master theses, BI Norwegian Business School, 2016-2020.
 
