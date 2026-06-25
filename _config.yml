@@ -27,7 +27,9 @@ author:
   bio              : "Researcher and Adjunct Associate Professor of Economics"
   location         : "Oslo, Norway"
   employer1        : "Statistics Norway"
+  employer1_url    : "https://www.ssb.no"
   employer2        : "BI Norwegian Business School"
+  employer2_url    : "https://www.bi.edu"
   uri              : # URL
   email            : "thomas.gundersen@ssb.no" 
 
