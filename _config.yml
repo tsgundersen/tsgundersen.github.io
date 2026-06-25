@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Thomas S. Gundersen"
 title_separator          : "-"
 name                     : &name "Thomas S. Gundersen"
 description              : &description "Thomas S. Gundersen — Research economist at Statistics Norway and Adjunct Associate Professor at BI Norwegian Business School. Research on oil markets, oil prices, the U.S. shale revolution, and applied macroeconometrics."
