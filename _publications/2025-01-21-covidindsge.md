@@ -8,7 +8,7 @@ The significant variations in key economic variables during the COVID-19 pandemi
 date: 2025-01-21
 venue: 'Samfunnsøkonomen (the Economist)'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-#paperurl: 'https://www.samfunnsokonomen.no/nyheter/koronapandemien-i-en-makrookonomisk-modell/'
+paperurl: 'https://www.samfunnsokonomen.no/nyheter/koronapandemien-i-en-makrookonomisk-modell/'
 citation: 'Gundersen, T.S., Quaghebeur, E., Tretvoll, H. (2025). "Koronapandemien i en makroøkonomisk modell" <i>Samfunnsøkonomen</i>. 1/2025.'
 
 ---
