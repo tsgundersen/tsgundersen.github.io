@@ -28,10 +28,10 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer1 %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% if author.employer1_url %}<a href="{{ author.employer1_url }}">{{ author.employer1 }}</a>{% else %}{{ author.employer1 }}{% endif %}</li>
+        <li class="author__desktop">{% if author.employer1_url %}<a href="{{ author.employer1_url }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer1 }}</a>{% else %}<i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer1 }}{% endif %}</li>
       {% endif %}
 	  {% if author.employer2 %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% if author.employer2_url %}<a href="{{ author.employer2_url }}">{{ author.employer2 }}</a>{% else %}{{ author.employer2 }}{% endif %}</li>
+        <li class="author__desktop">{% if author.employer2_url %}<a href="{{ author.employer2_url }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer2 }}</a>{% else %}<i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer2 }}{% endif %}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
