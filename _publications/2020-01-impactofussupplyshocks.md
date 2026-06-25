@@ -6,7 +6,6 @@ permalink: /publication/2020-01-impactofussupplyshocks
 excerpt: 'This study uses a structural vector autoregressive (SVAR) model to show that U.S. shale oil supply shocks significantly impacted global oil prices, accounting for up to 13% of the price variation between 2003 and 2015—more than previously found. However, despite increased U.S. production since 2010, these supply shocks only began lowering prices in late 2013, suggesting temporary transmission frictions likely due to logistical and technological challenges in the downstream supply chain.'
 date: 2020-01-01
 venue: 'the Energy Journal'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.5547/01956574.41.1.tgun'
 citation: 'Gundersen, Thomas S. (2020). "The Impact of U.S. Supply Shocks on the Global Oil Price" <i>the Energy Journal</i>. 41(1).'
 ---
