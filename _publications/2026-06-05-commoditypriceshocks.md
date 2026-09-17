@@ -1,0 +1,13 @@
+---
+title: "Commodity Price Shocks and Business Cycles in a Resource-Rich Economy"
+collection: publications
+category: workingpapers
+permalink: /publication/2026-06-05-commoditypriceshocks
+excerpt: 'Commodity price shocks can be a key driver of business cycles in resource-rich small open economies. We assess their importance for the Norwegian economy by estimating a structural VAR model and measuring the contribution of oil price shocks to fluctuations in economic activity. Focusing on the oil price collapse of 2014–2016, the VAR evidence indicates sizable spillovers from oil prices to the non-resource economy. We develop and estimate a small open economy DSGE model with a resource extraction sector that demands both materials and investment goods from the rest of the economy. Investment adjustment costs in the oil sector generate gradual and persistent spillovers to mainland activity following oil price shocks. Hence, the model is consistent with the empirical responses obtained from the VAR. Applying the framework to the COVID-19 pandemic, we find that while pandemic-specific shocks dominated the contraction, oil price movements also contributed non-negligibly to the downturn.'
+date: 2026-06-05
+venue: 'Discussion Papers no. 1039, Statistics Norway'
+paperurl: 'https://www.ssb.no/en/utenriksokonomi/utenrikshandel/artikler/commodity-price-shocks-and-business-cycles-in-a-resource-rich-economy'
+citation: 'Gundersen, Thomas S., Quaghebeur, Ewoud and Tretvoll, Håkon (2026). "Commodity Price Shocks and Business Cycles in a Resource-Rich Economy". <i>Discussion Papers</i> No. 1039, Statistics Norway.'
+---
+
+Commodity price shocks can be a key driver of business cycles in resource-rich small open economies. We assess their importance for the Norwegian economy by estimating a structural VAR model and measuring the contribution of oil price shocks to fluctuations in economic activity. Focusing on the oil price collapse of 2014–2016, the VAR evidence indicates sizable spillovers from oil prices to the non-resource economy. We develop and estimate a small open economy DSGE model with a resource extraction sector that demands both materials and investment goods from the rest of the economy. Investment adjustment costs in the oil sector generate gradual and persistent spillovers to mainland activity following oil price shocks. Hence, the model is consistent with the empirical responses obtained from the VAR. Applying the framework to the COVID-19 pandemic, we find that while pandemic-specific shocks dominated the contraction, oil price movements also contributed non-negligibly to the downturn.
